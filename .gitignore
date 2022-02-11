@@ -1,0 +1,13 @@
+bin
+jre
+lib
+license
+plugins
+brokenPlugins.db
+build.txt
+classpath.txt
+icons.db
+Install-Linux-tar.txt
+LICENSE.txt
+NOTICE.txt
+product-info.json
